@@ -11,3 +11,6 @@ function time() {
 }
 
 setInterval(time, 1000);
+
+const indi = new Date();
+        document.getElementById("tarix").innerText = indi.toLocaleDateString();
