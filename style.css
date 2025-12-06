@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  background-color: midnightblue;
+}
+#d2{
+    font-size: 60px;
+    color: white;
+    background-color: blue;
+    width: 60vw;
+    height: 46vh;
+    margin-left: 20%;
+    margin-top: 15%;
+}
+#h11{
+ text-align: center;
+font-size: 150px;
+color: white;
+  font-family: "Concert One", sans-serif;
+}
+#h12{
+    margin-top: 5%;
+}
+h5{
+      font-family: "Concert One", sans-serif;
+    margin-left: 20%;
+}
